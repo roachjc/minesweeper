@@ -1,0 +1,13 @@
+.box {
+  height: 25px;
+  width: 25px;
+  padding: 0;
+}
+
+.row {
+  font-size: 0;
+}
+
+.reveal {
+  background-color: blue;
+}
